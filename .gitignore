@@ -5,4 +5,7 @@ __pycache__/
 .venv/
 venv/
 *.pyc
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
 .DS_Store
